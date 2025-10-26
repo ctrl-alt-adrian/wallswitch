@@ -76,3 +76,7 @@ Edit these variables in the script:
 - `ENABLE_NOTIFICATIONS`: Show notifications (default: `true`)
 
 State file: `~/.config/hypr/.last_wallpapers`
+
+## Notes
+
+The script saves absolute paths to wallpapers. If using wallpapers from external drives or network shares, ensure they're mounted before Hyprland starts
